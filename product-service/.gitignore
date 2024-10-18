@@ -32,4 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-/home/abdelrahman-elassal/Projects/E-commerce/product-service/src/main/resources/application.properties
+application.properties
